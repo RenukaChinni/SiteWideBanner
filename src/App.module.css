@@ -1,7 +1,7 @@
 .layout {
   display: grid;
-  grid-template-areas: 'header header header' 'sidebar content content';
-  grid-template-rows: auto 1fr;
+  grid-template-areas: 'banner banner banner' 'header header header' 'sidebar content content';
+  grid-template-rows: auto auto 1fr;
   grid-template-columns: 290px 1fr;
   height: 100vh;
 }

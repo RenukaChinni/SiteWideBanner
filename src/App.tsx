@@ -1,4 +1,4 @@
-import { Header, Sidebar } from 'components';
+import { Header, Sidebar, Banner } from 'components';
 import { useAppDispatch, useAppSelector } from 'hooks/redux';
 import { Candidates, Home, Interviews, Library, Settings } from 'modules';
 import { useEffect } from 'react';
@@ -25,6 +25,7 @@ export const App = () => {
 
   return (
     <div className={styles.layout}>
+      <Banner />
       <Header />
       <Sidebar />
       <main className={styles.content}>
