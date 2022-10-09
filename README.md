@@ -1,18 +1,10 @@
-# Banner
-
-Welcome to your coding interview project! This project will give you an accurate overview of some of the real work you will be doing on the job. You’ll need to write code in an existing codebase, and follow as many existing best practices and production expectations as you can. You are allowed to use any materials you see fit to educate yourself on the technologies used in this project except for plagiarising direct solutions, whether that’s from a primary or secondary source.
-
-Throughout this project, if you have any concerns or questions regarding the logistics or technical specification of the interview project, please directly email [support@litebulb.io](mailto:support@litebulb.io). Otherwise, please reach out to your recruiter.
-
 ## Background
 
 This is a new software as a service application which allows users to give automated coding interviews. At the moment, there are no features implemented and there's a lot of work to do!
 
-Take a look at the github issues to see the problem you're going to solve.
+# Banner
 
-## Submission
-
-Your final submission should be in the form of a pull request from a remote branch again `main`. Open the Pull Request and document your changes and thought processes in the Pull Request description section. Once you’re ready to submit, add `litebulb-skills-bot` as a reviewer. Please allow up to a few days for your recruiter to get back to you on next steps.
+We want to communicate some important announcements to the users of application with the help of a site-wide banner. It allows multiple announcements, and no two consecutive banners have the same color. Once a user closes a banner, it would not be shown again.
 
 ## Development
 
