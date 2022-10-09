@@ -1,7 +1,3 @@
-## Background
-
-This is a new software as a service application which allows users to give automated coding interviews. At the moment, there are no features implemented and there's a lot of work to do!
-
 # Banner
 
 We want to communicate some important announcements to the users of application with the help of a site-wide banner. It allows multiple announcements, and no two consecutive banners have the same color. Once a user closes a banner, it would not be shown again.
